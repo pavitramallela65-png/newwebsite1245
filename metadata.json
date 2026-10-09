@@ -1,0 +1,6 @@
+{
+  "name": "Brew Haven",
+  "description": "Your Daily Dose of Happiness. Artisanal specialty coffee house offering freshly roasted beans, handcrafted espresso drinks, and cozy café experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
